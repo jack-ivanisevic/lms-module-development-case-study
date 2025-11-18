@@ -1,4 +1,4 @@
-# LMS Module Development Case Study
+# LMS Module Development
 
 ## Overview
 
